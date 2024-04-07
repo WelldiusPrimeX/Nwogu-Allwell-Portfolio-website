@@ -4,7 +4,7 @@ I built this to showcase the apple website clone project i built and any other p
 
 ## Description
 
-Every devolper at some point in time builds a portfolio website to showcase his works and i am no diferent, this is a very simple portfolio website.
+Every developer at some point in time builds a portfolio website to showcase his works and i am no diferent, this is a very simple portfolio website.
 
 ## Getting Started
 
