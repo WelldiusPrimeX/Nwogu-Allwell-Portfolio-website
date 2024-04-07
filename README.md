@@ -1,6 +1,6 @@
 # First Portfolio Website
 
-I built this to host the apple website clone project i built.
+I built this to showcase the apple website clone project i built and any other project i build going forward.
 
 ## Description
 
